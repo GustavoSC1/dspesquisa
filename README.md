@@ -109,6 +109,8 @@ Ou
 
 const BASE_URL = 'http://localhost:8080';
 
+Para executar o front ent mobile você também precisará baixar o aplicativo Expo em seu smartphone e utilizá-lo para ler o QR Code que vai aparecer no terminal quando terminar o start da aplicação.
+
 ```bash
 # clonar repositório
 git clone https://github.com/GustavoSC1/dspesquisa
